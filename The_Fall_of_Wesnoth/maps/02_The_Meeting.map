@@ -1,0 +1,14 @@
+border_size=1
+usage=map
+
+Gg          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Gg          , Wwr         , Wwr         , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Gg          
+Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Wwr         , Ww          , Gg          , Gg          
+Gg          , Gg          , Ch          , Gg          , Co          , 2 Ko        , Co          , Gg          , Ch          , Gg          , Ch          , Ch          , 1 Kh        , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Co          , Gg          , Gg^Vo       , Gg          , Gg^Vo       , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg^Fet      , Gg^Vh       , Rr          , Gg^Ve       , Gg^Vl       , Gg^Vh       , Gg^Ve       , Gg^Vl       , Gg^Fet      , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg^Vl       , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg^Fet      , Gg          , Rr          , Gg^Ve       , Rr          , Gg^Vl       , Rr          , Gg^Fet      , Gg^Vo       , Gg^Fet      , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg^Fet      , Gg          , Gg^Vo       , Gg^Vl       , Rr          , Gg^Vl       , Gg^Ve       , Rr          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg^Vl       , Gg          , Rr          , Gg^Fet      , Gg          , Rr          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
