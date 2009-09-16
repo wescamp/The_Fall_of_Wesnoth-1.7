@@ -1,0 +1,1177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-09-16 11:57+0200\n"
+"PO-Revision-Date: 2009-08-12 11:33+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:10
+msgid "The Fall of Wesnoth (Part 1)"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:11
+msgid "TFoW"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:21
+msgid ""
+"It is 20 years after the end of the Second Dark Age. Follow the events that "
+"took place after the ending of the Second Dark Age that led up to the End of "
+"the Kingdom of Wesnoth and the events that lead up to what has only been "
+"described in later years as the Apocalypse. This is Part 1.\n"
+"\n"
+"Part 1: 5/? completed\n"
+"\n"
+"Storyline by: The Great Rings\n"
+"Campaign coded by: Huston\n"
+"\n"
+"Please Note: It is recommended that you play the campaign Rebellion During "
+"the Dark Age before playing this.\n"
+"\n"
+"Campaign Version 0.0.9d"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:24
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:24
+msgid "Sergeant"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:25
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:25
+msgid "Lieutenant"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:26
+msgid "Marshal"
+msgstr ""
+
+#. [campaign]: id=The_Fall_of_Wesnoth_Part_1
+#: The_Fall_of_Wesnoth/_main.cfg:26
+msgid "(Hard)"
+msgstr ""
+
+#. [about]
+#: The_Fall_of_Wesnoth/_main.cfg:33
+msgid "Campaign Coded by:"
+msgstr ""
+
+#. [about]
+#: The_Fall_of_Wesnoth/_main.cfg:39
+msgid "Storyline by:"
+msgstr ""
+
+#. [scenario]: id=The_Beginning_of_the_End
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:4
+msgid "And So It Begins..."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:18
+msgid ""
+"It has been many long years now since the Kingdom of Wesnoth, the first "
+"kingdom of men in this part of the world, ceased to be its own realm."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:22
+msgid ""
+"I am older now, and I may soon take my leave of this mortal realm. I shall "
+"not be sorry to rest at last, for life in this world can be hard and cruel, "
+"yet I would not depart without leaving some record of my times, and of the "
+"events that lead to the Fall of Wesnoth."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:26
+msgid ""
+"History is forgotten too easily by those who lived through it, and it fades "
+"all the faster when those who lived it are no more. I write this account in "
+"the hope that those who come after will gain some understanding of their "
+"past, and with some flicker of vanity, I hope that they will understand my "
+"actions, and not, perhaps, judge me too harshly..."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:30
+msgid ""
+"Between 673 and 955 YW, the Kingdom was wracked by famine and civil wars, as "
+"one petty warlord fought another to possess the crown, weakening the realm "
+"while the Northern Alliance and the orcs under Kapou'e rose to become the "
+"preeminent powers on the continent."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:34
+msgid ""
+"The last of the tyrants was named King Rurcyn. It was he who signed the pact "
+"with the orcs and foul undead, in order to ensure his own power over "
+"Wesnoth. Rejecting this alliance, my father King Haldar and my mother Queen "
+"Allora led a revolt and, with the backing of the elves of the Grey Woods, "
+"gained the throne of Wesnoth."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:38
+msgid ""
+"They renounced the pact with the orcs and undead, and for a time the Kingdom "
+"regained some of its properity. But the old King's allies were angered what "
+"they saw as a betrayal, and Wesnoth lacked the men or resources to defend "
+"its own borders."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:42
+msgid ""
+"In the year 975 YW, orcish raids again increased along the northwestern "
+"border of Wesnoth. Such raids were common since Haldar renounced the treaty "
+"with the orcs, but now they were larger, more coordinated."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:46
+msgid ""
+"The few remaining villages in the area, poor and largely defenseless, relied "
+"on only a handful of royal troops to protect them."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:50
+msgid ""
+"In the small village of Alben east of the fords of Abez, Sergeant Gwadoc of "
+"the Wesnothan army musters the villagers to repel a raid, while a messenger "
+"rides desperately to bring help from the forts at Abez."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:66
+msgid "Hold out until the end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:51
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:42
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:47
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:70
+msgid "Death of Any Hero Unit"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:55
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:46
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:51
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:74
+msgid "Turns run out"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:47
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:91
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:76
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:87
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:83
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:41
+msgid "Gwadoc"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Gwadoc
+#. [side]: type=Junior Prince, id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:60
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:78
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:98
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:83
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:94
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:144
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:96
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:54
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:72
+msgid "Wesnothians"
+msgstr ""
+
+#. [unit]: id=Liryn, type=Spearman
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:104
+msgid "Liryn"
+msgstr ""
+
+#. [side]: id=Badush, type=Orcish Grunt
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:120
+msgid "Badush"
+msgstr ""
+
+#. [side]: id=Badush, type=Orcish Grunt
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:134
+msgid "Orcish_Raiding_Party"
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:158
+msgid ""
+"Sir. The orcs are sending more raiders across the fords. The villagers have "
+"gathered and await your command."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:162
+msgid ""
+"Arm the villagers and prepare to defend the fords. We have to hold them "
+"until Abez can send reinforcements."
+msgstr ""
+
+#. [message]: speaker=Badush
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:166
+msgid ""
+"The human traitors are few and ill-prepared. Take them by storm and bring me "
+"their captain's head. Put the men in chains and the women and children to "
+"the sword. Attack!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:171
+msgid "The peasants are ill-prepared to face these brutes, my friend."
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:175
+msgid ""
+"You are right. If they are to survive, they must stand shoulder to shoulder, "
+"and they must hold their ranks and surround them to take them down."
+msgstr ""
+
+#. [message]: speaker=Badush
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:184
+msgid "The cursed humans fight better than expected."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:188
+msgid ""
+"Our messenger should have arrived by now, but I do not know how much longer "
+"we can hold."
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:192
+msgid ""
+"Stand and fight, you weak-kneed gaggle of scarecrows! Fight for your "
+"children's lives!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:287
+msgid "Look! Reinforcements have arrived!"
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:291
+msgid ""
+"Those aren't just any reinforcements! That is The Prince's personal "
+"battalion!"
+msgstr ""
+
+#. [message]: speaker=Badush
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:295
+msgid "Fall back! We will pay them for this later."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:299
+msgid "After them! Drive them back from the fords!"
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:316
+msgid "Ugh..."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:320
+msgid "No! Without him how will we possibly survive?"
+msgstr ""
+
+#. [message]: speaker=Badush
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:338
+msgid "Is... it is finished? I shall be..."
+msgstr ""
+
+#. [message]: speaker=Prince Murdoch
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:429
+msgid "Excellent! It appears our help was not needed after all."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:446
+msgid "No. I must..."
+msgstr ""
+
+#. [message]: speaker=Liryn
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:450
+msgid "Fall back! Head to the forest! Tell the women and children to flee!"
+msgstr ""
+
+#. [message]: speaker=Badush
+#: The_Fall_of_Wesnoth/scenarios/1_the_beginning_of_the_end.cfg:454
+msgid "After them! Kill them all!"
+msgstr ""
+
+#. [scenario]: id=The_Meeting
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:4
+msgid "The Meeting with Prince Murdoch"
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:16
+msgid ""
+"Everyone was surprised that the Prince of all people showed up with "
+"reinforcements."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:21
+msgid ""
+"@Guard\n"
+"Gwadoc, the Prince wants to talk to you immediately."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:26
+msgid ""
+"@Gwadoc\n"
+"Very well"
+msgstr ""
+
+#. [side]: type=Junior Prince, id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:71
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:137
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:65
+msgid "Prince Murdoch"
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:91
+msgid ""
+"Well-met, Gwadoc. Were it not for your actions, I fear we would have arrived "
+"too late."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:95
+msgid ""
+"I am honored, my lord. And yet... I wonder if it was for nought, in the end."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:99
+msgid "Meaning?"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:103
+msgid ""
+"Every year, the raids become more common. No longer do they merely plunder. "
+"Now they come simply to kill and destroy. Today we survived, but tomorrow? "
+"Next year? Where are the King's men? Why does the crown not act? I fear that "
+"Wesnoth shall soon cease to be."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:107
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:111
+msgid "Forgive me, my lord, if my words offended."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:115
+msgid ""
+"Nay, do not ask forgiveness for speaking your mind. I ask only that you not "
+"speak so in front of your men."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:119
+msgid ""
+"Indeed I am aware of what you speak. You ask where are the King's men, and I "
+"tell you that we have no mend to send. My father has convened a council of "
+"the lords of Wesnoth in hopes of reaching some solution. Until then, I would "
+"not have despair spread among the ranks."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:123
+msgid "Of course, my lord."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:127
+msgid ""
+"No matter. Tomorrow, you shall accompany me to the Forts at Abez.You shall "
+"become one of my personal guards and an adviser to me. I need brave men who "
+"will speak their mind."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:131
+msgid "Again I am honored. But, who will defend the villages here?"
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:135
+msgid ""
+"Your friend Liryn will assume command. I presume you trust him with this "
+"duty?"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/2_the_meeting.cfg:139
+msgid "I trust Liryn with my life."
+msgstr ""
+
+#. [scenario]: id=tidings
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:4
+msgid "Tidings of Good and Ill"
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:16
+msgid ""
+"The next day, Gwadoc accompanied me back to the Forts of Abez. The Forts had "
+"been built in the civil wars, for he who controlled the river controlled the "
+"trade with Elensefar and Knalga. Another purpose they served as well was to "
+"guard the Fords of Abez against invasion from the North."
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:20
+msgid ""
+"When we arrived, my forces under General Deonyc had just recieved word of a "
+"large orcish army encamped north of the river..."
+msgstr ""
+
+#. [unit]: id=General Addraenvan, type=General
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:152
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:80
+msgid "General Addraenvan"
+msgstr ""
+
+#. [message]: speaker=General Addraenvan
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:99
+msgid "Hail Prince Murdoch, Lord of Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:103
+msgid "What news, General Addraenvan?"
+msgstr ""
+
+#. [message]: speaker=General Addraenvan
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:107
+msgid ""
+"The orcs are encamped a few miles to the north. They are burning the "
+"villages, and killing all they find. Those who can have fled across the "
+"fords. I fear we lack the numbers to attack them, so I am preparing the "
+"Forts for a siege."
+msgstr ""
+
+#. [message]: id=cavalry scout
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:124
+msgid "Hail, Prince! I bring news from across the river, both good and bad."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:128
+msgid "Well, let's hear it."
+msgstr ""
+
+#. [message]: id=cavalry scout
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:132
+msgid ""
+"The bad news is that there is a second army moving to join the orcish hord..."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:136
+msgid "That is not so bad."
+msgstr ""
+
+#. [message]: id=cavalry scout
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:140
+msgid ""
+"Forgive me my lord, but it is worse than you think, for the second army I "
+"speak of is an army of the undead. From what I could discern it was led by a "
+"lich the orcs were refering to as Mal Yryrcyn."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:144
+msgid ""
+"Indeed, our situation is much more dire than I first thought. What is the "
+"good news?"
+msgstr ""
+
+#. [message]: id=cavalry scout
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:148
+msgid ""
+"I have managed to make contact with a Dwarvish Lord. The Dwarf Lord "
+"Glamaithsol of the Northern Alliance to be precise. He is encamped some "
+"miles north of the orcs and is responsible for keeping order over the "
+"surrounding area."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:152
+msgid "How does this help us?"
+msgstr ""
+
+#. [message]: id=cavalry scout
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:156
+msgid ""
+"While I was with him I told him of what I saw. Of the Orcs and the Undead. "
+"He told me that he has known for some time now that the orcs were mustering "
+"but can do nothing about it unless they cause a disruption. although he did "
+"not know the Orcs were waiting for an undead army to join their host. He has "
+"sent a messenger to his superiors to find out what course of action he "
+"should take. He has also requested that I return with an ambassador in 10 "
+"days, i rode as fast as i could but it still took me 4 days to arrive."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:160
+msgid "Then we must send someone immediately."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:164
+msgid ""
+"If the orcish and undead forces join togeather, they will overwhelm us. We "
+"must strike now, and destroy the orcs before the undead arrive."
+msgstr ""
+
+#. [message]: speaker=General Addraenvan
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:168
+msgid "Do not speak folly in the presence of your betters."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:172
+msgid "Let him speak."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:176
+msgid ""
+"If you send a small force over the river, they can join the Alliance forces "
+"and outflank the orcs to the north. If you cross the ford in a few days' "
+"time, you can then trap the orcs and ambush them in their camp. Then we can "
+"withdraw and face the undead host at the Forts."
+msgstr ""
+
+#. [message]: speaker=General
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:180
+msgid "You are assuming that they will be willing to help us."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:184
+msgid ""
+"Hopefully they will, because it is a good plan, if a dangerous one. If it "
+"fails, we may be gravely weakened, but if it succeeds, we have a better hope "
+"of victory than if we faced both armies at once."
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:188
+msgid ""
+"Gwadoc, I want you to gather a force of men and cross the river tonight. I "
+"will attack the orcs from the south in two days' time. Make sure you are "
+"there."
+msgstr ""
+
+#. [message]: speaker=General Addraenvan
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:192
+msgid "This is madness!"
+msgstr ""
+
+#. [message]: speaker=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/3_tidings.cfg:196
+msgid ""
+"Enough! Gwadoc, prepare your men, Go meet the Dwarvish Lord. Take my "
+"personal guards with you, for you will be the ambassador of Wesnoth to this "
+"lord. Our fate is in your hands."
+msgstr ""
+
+#. [scenario]: id=Executing_the_Plan
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:4
+msgid "Executing the Plan"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:38
+msgid "Move Gwadoc to the signpost."
+msgstr ""
+
+#. [unit]: id=Alolonna, type=White Mage
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:91
+msgid "Alolonna"
+msgstr ""
+
+#. [side]
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:107
+msgid "random orcs"
+msgstr ""
+
+#. [message]: type=Cavalryman
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:116
+msgid ""
+"We are on the north side of the river, a dozen miles downstream from Abez. "
+"The main orcish army is further to the East of us, but there are several orc "
+"watch posts in these parts. The Alliance forces were some miles to the "
+"north, beyond those hills. They have not ventured further for fear of "
+"revealing their possition to the orcs. Their are also some peasents here who "
+"still resist the orcs: they might join with us if we can locate them."
+msgstr ""
+
+#. [message]: speaker=Alolonna
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:120
+msgid ""
+"It should be possible to pass between the forts undetected, but we must "
+"proceed carefully to avoid discovery. This fog hides us from the orcs, but "
+"it also obscures the dangers ahead. However, taking time to gather more "
+"forces might also prove useful."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:124
+msgid "Either way, we must move quickly. Let's go!"
+msgstr ""
+
+#. [message]: id=Scout
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:197
+msgid "Halt! Who goes there?"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:201
+msgid "I bring a message to your lord from Prince Murdoch of Wesnoth."
+msgstr ""
+
+#. [message]: id=Scout
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:205
+msgid "Quickly, follow me."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:229
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:258
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:287
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:316
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:345
+msgid "Sir, their are villagers still here who resist the orcs."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:233
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:262
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:291
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:320
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:349
+msgid "Permission to join with your forces, sir?"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:238
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:267
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:296
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:325
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:354
+msgid ""
+"You may join with us, and help us clear this rabble of orcs from these lands."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:361
+msgid "Drat! Now we surely will not make it in time."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:281
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:375
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:305
+msgid "No. I have.. failed my country..."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:299
+#: The_Fall_of_Wesnoth/scenarios/4_executing_the_plan.cfg:388
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:327
+msgid "No. Without her we will not be able to train any magi."
+msgstr ""
+
+#. [scenario]: id=Meeting_the_Dwarves_of_the_NA
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:4
+msgid "Breaking a Siege"
+msgstr ""
+
+#. [part]
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:17
+msgid ""
+"The pathfinder who stopped us at the signpost led us as quickly as possible "
+"to Lord Glamaithsol, telling us that the orcs were on the move. On our "
+"arrival, however, we found more than just dwarves..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:47
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:43
+msgid "Defeat all enemies."
+msgstr ""
+
+#. [side]: id=Lord Glamaithsol, type=Dwarvish Runemaster
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:108
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:104
+msgid "Lord Glamaithsol"
+msgstr ""
+
+#. [side]: id=Lord Glamaithsol, type=Dwarvish Runemaster
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:119
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:115
+msgid "Dwarves"
+msgstr ""
+
+#. [side]: id=Barbag, type=Orcish Warrior
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:141
+msgid "Barbag"
+msgstr ""
+
+#. [side]: id=Barbag, type=Orcish Warrior
+#. [side]: id=Hashnak, type=Orcish Crossbowman
+#. [side]: id=Vadash, type=Orcish Warlord
+#. [side]: id=Orc1, type=Orcish Warlord
+#. [side]: id=Orc2, type=Orcish Slurbow
+#. [side]: id=Orc3, type=Orcish Sovereign
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:152
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:184
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:216
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:176
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:208
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:240
+msgid "Orcs"
+msgstr ""
+
+#. [side]: id=Hashnak, type=Orcish Crossbowman
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:173
+msgid "Hashnak"
+msgstr ""
+
+#. [side]: id=Vadash, type=Orcish Warlord
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:205
+msgid "Vadash"
+msgstr ""
+
+#. [message]: id=Scout
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:239
+msgid ""
+"The camp is not far ahead, Gwadoc. But wait! What is this?! The orcs are "
+"attacking it!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:243
+msgid "We shall use this camp as a rallying point."
+msgstr ""
+
+#. [message]: speaker=Alolonna
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:247
+msgid "But first we must take it from the orcs."
+msgstr ""
+
+#. [message]: id=Scout
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:251
+msgid "I place myself at your disposal, Gwadoc."
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:255
+msgid ""
+"Greetings, men of Wesnoth! I regret we could not meet under happier "
+"circumstances!"
+msgstr ""
+
+#. [message]: id=Vadash
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:259
+msgid "Wesnothians to the South. Kill them!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:267
+msgid ""
+"This has taken too long. Prince Murdoch will be engaging the Orcish host by "
+"himself, by now."
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:285
+msgid "Retreat into Knalga. The tunnels will keep us safe."
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:312
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:340
+msgid "Ach, ‘tis a bitter end for an old dwarf."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:316
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:344
+msgid ""
+"We are lost! Fall back to Abez, where we shall make the best stand we may!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:324
+msgid "Victory is ours!"
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:328
+msgid ""
+"I thank you, men of Wesnoth, and welcome you to my camp. You Have "
+"undoubtedly come to inquire whether or not the Northern Alliance will aid "
+"you. Am I correct?"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:332
+msgid ""
+"Aye, we have. I am Gwadoc of Wesnoth and I speak on behalf of Prince "
+"Murdoch. But, if I may ask, why does the Alliance seek war with the savage "
+"orcs now, where before it has seemed content to merely keep the peace?"
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:336
+msgid ""
+"We were not always foes with these creatures you call savages. During the "
+"time of Kapou’e the orcs had peace with us. The Dwarves do not forget that "
+"easily. But since those days they have become divided and violent once "
+"again. Even though the council has not given me permission to aid you yet, "
+"the Orcs have just committed an act of war against the Northern Alliance. As "
+"such, I no longer require the permission of the council to act. We shall "
+"fight at your side: both the sturdy dwarves and the humans of this division. "
+"But know this: we may suffer great loss in this battle. It may be that we "
+"shall route the orcs, but it may also be the prelude to war with all the "
+"orcs and the undead. If that should come to pass, the Council must know "
+"Wesnoth stands with us."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:340
+msgid ""
+"Wesnoth is not as powerful as it once was, but we do not forsake our friends "
+"easily. If my word as an ambassador of Prince Murdoch of Wesnoth is not "
+"enough, then, you must speak to Prince Murdoch or the King directly."
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/5_Meeting_the_Dwarves.cfg:344
+msgid ""
+"Then that I shall. Let us drink and feast tonight my friends, for we have a "
+"long march tomorrow!"
+msgstr ""
+
+#. [scenario]: id=Fighting_the_Orcish_Host
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:4
+msgid "Fighting_the_Orcish_Host"
+msgstr ""
+
+#. [message]: id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:263
+msgid ""
+"Ah, it seems as though Gwadoc was able to get the Northern Alliance to aid "
+"us after all."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:267
+msgid ""
+"See here, Lord Glamaithsol, Prince Murdoch is has attacked the orcs to the "
+"South, but he is outnumbered. We must strike at the orcs from the rear "
+"before they can overwhelm him."
+msgstr ""
+
+#. [message]: speaker=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:271
+msgid "Aye so he has. I must speak to him after this."
+msgstr ""
+
+#. [message]: id=Orc1
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:275
+msgid "Bah, the cursed humans have flanked us to the north!"
+msgstr ""
+
+#. [message]: id=Orc2
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:279
+msgid ""
+"The Alliance has joined the battle. We should retreat and cut our way out."
+msgstr ""
+
+#. [message]: id=Orc3
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:283
+msgid ""
+"Hold your ground you rabble of dogs! Kill the dwarves. Kill the humans. Kill "
+"them all!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:291
+msgid "There are too many of them, Prince Murdoch is doomed."
+msgstr ""
+
+#. [message]: id=Lord Glamaithsol
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:309
+msgid "Northern Alliance retreat to Knalga. The tunnels will keep us safe."
+msgstr ""
+
+#. [message]: id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:313
+msgid "All units, retreat to Abez!"
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:352
+msgid "Victory is ours! Hail Murdoch, Prince of Wesnoth!"
+msgstr ""
+
+#. [message]: id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:356
+msgid ""
+"Your plan was a success, yet it cost us dearly. We must retreat to Abez "
+"before the undead arrive, or we shall be overwelmed. Organize the men, "
+"Gwadoc. You are in command."
+msgstr ""
+
+#. [message]: speaker=Gwadoc
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:360
+msgid "M..Me? But what about General Addraenvan, my lord?"
+msgstr ""
+
+#. [message]: id=Murdoch
+#: The_Fall_of_Wesnoth/scenarios/6_Attacking_the_Orcs.cfg:365
+msgid ""
+"We suffered many losses. General Addraenvan is among the slain.\n"
+"Now come, Lord Glamaithsol. We have much to speak of."
+msgstr ""
+
+#. [unit_type]: id=Battle Prince, race=human
+#: The_Fall_of_Wesnoth/units/Battle_Prince.cfg:4
+msgid "^Battle Prince"
+msgstr ""
+
+#. [unit_type]: id=Battle Prince, race=human
+#: The_Fall_of_Wesnoth/units/Battle_Prince.cfg:31
+msgid ""
+"A noble by birth, the Prince has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making him both a "
+"great combatant and leader. Now battle-hardened and strong of will, he can "
+"now aid those around him in the art of combat."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fall_of_Wesnoth/units/Junior_Prince.cfg:23
+#: The_Fall_of_Wesnoth/units/King.cfg:35
+#: The_Fall_of_Wesnoth/units/Prince.cfg:31
+#: The_Fall_of_Wesnoth/units/Battle_Prince.cfg:35
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Battle Princess, race=human
+#: The_Fall_of_Wesnoth/units/Battle_Princess.cfg:4
+msgid "female^Battle Princess"
+msgstr ""
+
+#. [unit_type]: id=Battle Princess, race=human
+#: The_Fall_of_Wesnoth/units/Battle_Princess.cfg:31
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making her both a "
+"great combatant and leader. Now battle-hardened and strong of will, she can "
+"now aid those around her in the art of combat."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fall_of_Wesnoth/units/Battle_Princess.cfg:35
+#: The_Fall_of_Wesnoth/units/Queen.cfg:36
+#: The_Fall_of_Wesnoth/units/Princess.cfg:33
+#: The_Fall_of_Wesnoth/units/Junior_Princess.cfg:23
+msgid "saber"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Explorer, race=dwarf
+#: The_Fall_of_Wesnoth/units/Explorer.cfg:4
+msgid "Dwarvish Explorer"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Explorer, race=dwarf
+#: The_Fall_of_Wesnoth/units/Explorer.cfg:27
+msgid ""
+"Dwarven Explorers often travel alone through unknown lands, slaying enemies "
+"and scouting out new deposits of ore and other precious minerals. They are "
+"strong enough to wear full battle armor, giving them added protection "
+"against physical attacks. They are powerful fighters, second only to the "
+"Dwarven lords, and their amazing maneuverability makes them dangerous indeed."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fall_of_Wesnoth/units/Explorer.cfg:45
+msgid "battle axe"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fall_of_Wesnoth/units/Pathfinder.cfg:42
+#: The_Fall_of_Wesnoth/units/Pathfinder.cfg:50
+#: The_Fall_of_Wesnoth/units/Scout.cfg:40
+#: The_Fall_of_Wesnoth/units/Scout.cfg:48
+#: The_Fall_of_Wesnoth/units/Explorer.cfg:54
+msgid "axe"
+msgstr ""
+
+#. [unit_type]: id=Junior Prince, race=human
+#: The_Fall_of_Wesnoth/units/Junior_Prince.cfg:5
+msgid "Junior Prince"
+msgstr ""
+
+#. [unit_type]: id=Junior Prince, race=human
+#: The_Fall_of_Wesnoth/units/Junior_Prince.cfg:19
+msgid ""
+"As the name implies, junior princes are princes that have not fully grown "
+"into themselves yet. While they have the necessary skills in the art of "
+"swordplay, they are lacking in leadership, descretion, and just plain common "
+"sense."
+msgstr ""
+
+#. [unit_type]: id=Junior Princess, race=human
+#: The_Fall_of_Wesnoth/units/Junior_Princess.cfg:5
+msgid "female^Junior Princess"
+msgstr ""
+
+#. [unit_type]: id=Junior Princess, race=human
+#: The_Fall_of_Wesnoth/units/Junior_Princess.cfg:19
+msgid ""
+"As the name implies, junior princesses are princesses that have not fully "
+"grown into themselves yet. While they have the necessary skills in the art "
+"of swordplay, they are lacking in leadership, descretion, and just plain "
+"common sense."
+msgstr ""
+
+#. [unit_type]: id=King, race=human
+#: The_Fall_of_Wesnoth/units/King.cfg:5
+msgid "King"
+msgstr ""
+
+#. [unit_type]: id=King, race=human
+#: The_Fall_of_Wesnoth/units/King.cfg:29
+msgid ""
+"Haldar the King of Wesnoth. He successfully led a coupe against a the "
+"corrupt king Rurcyn.He now Rules jointly over Wesnoth with his wife, Queen "
+"Allora."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Fall_of_Wesnoth/units/King.cfg:44
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Pathfinder, race=dwarf
+#: The_Fall_of_Wesnoth/units/Pathfinder.cfg:4
+msgid "Dwarvish Pathfinder"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Pathfinder, race=dwarf
+#: The_Fall_of_Wesnoth/units/Pathfinder.cfg:23
+msgid ""
+"Dwarvish Pathfinders are faster, stronger and even deadlier with their axes "
+"than normal dwarvish scouts. They often race ahead of the main force, "
+"scouting out unfamiliar terrain and securing villages and chokepoints."
+msgstr ""
+
+#. [unit_type]: id=Prince, race=human
+#: The_Fall_of_Wesnoth/units/Prince.cfg:5
+msgid "Prince"
+msgstr ""
+
+#. [unit_type]: id=Prince, race=human
+#: The_Fall_of_Wesnoth/units/Prince.cfg:27
+msgid ""
+"A noble by birth, the Prince has learnt swordplay with the greatest generals "
+"and battle tactics with the greatest sages, making him both a great "
+"combatant and leader. The units of lower level around the Prince will fight "
+"better due to his presence. The Prince is also nimble and dextrous, having "
+"skills like that of a thief."
+msgstr ""
+
+#. [unit_type]: id=Princess, race=human
+#: The_Fall_of_Wesnoth/units/Princess.cfg:5
+msgid "female^Princess"
+msgstr ""
+
+#. [unit_type]: id=Princess, race=human
+#: The_Fall_of_Wesnoth/units/Princess.cfg:29
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and leader. The units of lower level around the Princess will "
+"fight better due to her presence. The Princess is also nimble and dextrous, "
+"having skills like that of a thief."
+msgstr ""
+
+#. [unit_type]: id=Queen2, race=human
+#: The_Fall_of_Wesnoth/units/Queen.cfg:5
+msgid "female^Queen"
+msgstr ""
+
+#. [unit_type]: id=Queen2, race=human
+#: The_Fall_of_Wesnoth/units/Queen.cfg:32
+msgid ""
+"The Queen of Wesnoth, Queen Alora, she has known Haldar since they were "
+"younglings and now rules over the country of Wesnoth with him. She rules "
+"jointly with him."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Scout, race=dwarf
+#: The_Fall_of_Wesnoth/units/Scout.cfg:4
+msgid "Dwarvish Scout"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Scout, race=dwarf
+#: The_Fall_of_Wesnoth/units/Scout.cfg:22
+msgid ""
+"Dwarvish Scouts explore both above and below ground. They are adept at both "
+"fighting hand to hand with their axes and throwing them, but trade away the "
+"full endurance of dwarvish line fighters in return for superior mobility."
+msgstr ""
+
+#. [terrain_type]: id=Dwarven Walkway
+#: The_Fall_of_Wesnoth/utils/terrain.cfg:6
+msgid "Dwarven Walkway"
+msgstr ""
